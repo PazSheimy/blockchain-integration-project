@@ -19,7 +19,7 @@ void main(array<String^> ^args) {
 	struct transactionData {
 		double amount;
 		std::string senderKey;
-		//String receiverKey;
+		std::string receiverKey;
 		time_t timestamp;
 		
 	};
