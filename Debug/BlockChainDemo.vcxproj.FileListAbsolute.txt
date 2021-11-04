@@ -2,3 +2,7 @@ C:\Users\sheim\OneDrive\Documents\FGCU\C++ projects\cop 3003\BlockChainDemo\Debu
 C:\Users\sheim\OneDrive\Documents\FGCU\C++ projects\cop 3003\BlockChainDemo\Debug\BlockChainDemo.exe
 C:\Users\sheim\OneDrive\Documents\FGCU\C++ projects\cop 3003\BlockChainDemo\Debug\BlockChainDemo.vcxproj.GenerateResource.cache
 C:\Users\sheim\OneDrive\Documents\FGCU\C++ projects\cop 3003\BlockChainDemo\Debug\BlockChainDemo.Blockchain.resources
+C:\Users\sheim\OneDrive\Documents\FGCU\projects\cop3003\BlockChainDemo\Debug\BlockChainDemo.vcxproj.AssemblyReference.cache
+C:\Users\sheim\OneDrive\Documents\FGCU\projects\cop3003\BlockChainDemo\Debug\BlockChainDemo.Blockchain.resources
+C:\Users\sheim\OneDrive\Documents\FGCU\projects\cop3003\BlockChainDemo\Debug\BlockChainDemo.vcxproj.GenerateResource.cache
+C:\Users\sheim\OneDrive\Documents\FGCU\projects\cop3003\BlockChainDemo\Debug\BlockChainDemo.exe

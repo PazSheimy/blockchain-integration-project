@@ -2,15 +2,13 @@
 #include <ctime>
 #include <iostream>
 
-
 #include "Blockchain.h"
-
 using namespace System;
 using namespace System::Windows::Forms;
 [STAThreadAttribute]
 
-//main function with parametrs
-void main(array<String^>^ args) {
+//main function with parameters
+void main(array<String^> ^args) {
 	Application::SetCompatibleTextRenderingDefault(false);
 	Application::EnableVisualStyles();
 
@@ -20,7 +18,7 @@ void main(array<String^>^ args) {
 
 	struct transactionData {
 		double amount;
-		//String senderKey;
+		std::string senderKey;
 		//String receiverKey;
 		time_t timestamp;
 		
