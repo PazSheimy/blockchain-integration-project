@@ -150,6 +150,9 @@ namespace BlockChainDemo {
 			MessageBox::Show("A class is used to specify the form of an object.\n It combines data representation and methods for manupulating data\n"
 				+ "The data and functions with in a class are called member of a class.\n"+"A calss is blueprint for data type and it is widely used in blokchain", "Class Format", MessageBoxButtons::OK,
 				MessageBoxIcon::None) == System::Windows::Forms::DialogResult::Yes;
+			MessageBox::Show("OOP is a programming style based on the concept of objects.\n Which may contain data in the form of fields (Attributes) and code in the form of procedure (Methods).\n"
+				+ "Procedural programming is based on the concept of the procedure call also known as routines, subroutines, or funtions. (Computational steps)\n" + "Functional programming style is based on the concept of evaluation of mathematical functions and avoid changing state and mutable data", "Procedural/Functional/ Object-oriented programming", MessageBoxButtons::OK,
+				MessageBoxIcon::None) == System::Windows::Forms::DialogResult::Yes;
 			
 		}
 		else {
