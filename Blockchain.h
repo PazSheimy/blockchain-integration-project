@@ -148,7 +148,7 @@ namespace BlockChainDemo {
 		if (MessageBox::Show("A blockchain is a growing list of records, called blocks, that are linked together using cryptography. Click ok to learn more", "What is Blockchain", MessageBoxButtons::OKCancel,
 			MessageBoxIcon::None) == System::Windows::Forms::DialogResult::OK) {
 			MessageBox::Show("A class is used to specify the form of an object.\n It combines data representation and methods for manupulating data\n"
-				+ "The data and functions with in a class are called member of a class.\n"+"A calss is blueprint for data type.", "Class Format", MessageBoxButtons::OK,
+				+ "The data and functions with in a class are called member of a class.\n"+"A calss is blueprint for data type and it is widely used in blokchain", "Class Format", MessageBoxButtons::OK,
 				MessageBoxIcon::None) == System::Windows::Forms::DialogResult::Yes;
 			
 		}
